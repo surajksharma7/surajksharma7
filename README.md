@@ -6,7 +6,7 @@
 
 ------
 
-🔬 **Data Analytics Enthusiast**
+🔬 **Data Science Enthusiast**
 
 🌱 Currently exploring the world of data science and Machine Learning.
 
