@@ -14,7 +14,7 @@
 
 📚 Check out my [Data Science Portfolio]() for a glimpse of my work.
 
-📝 I love sharing my insights and experiences on [my kaggle ]("https://www.kaggle.com/surajksharma7).
+📝 I love sharing my insights and experiences on [my kaggle ]("https://www.kaggle.com/surajksharma7").
 
 📫 Feel free to reach out to me at **surajksharma2304@gmail.com** for any inquiries or collaborations.
 
