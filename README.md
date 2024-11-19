@@ -37,19 +37,19 @@ I’m currently pursuing my **Master of Computer Applications (MCA)**, specializ
 
 Here are some of the exciting AI/ML projects I'm working on or have completed:
 
-#### 🔹 **[Project Name: AI-based Movie Recommendation System]**
+#### 🔹 **AI-based Movie Recommendation System**
 A machine learning model that recommends movies based on user preferences and historical data.
 - **Tech Stack:** Python, Pandas, Scikit-Learn, Flask
 - **Status:** Completed | Deployed
 - 🔗 [View the Repo](#)
 
-#### 🔹 **[Project Name: Sentiment Analysis on Tweets]**
-Analyzing tweets to detect the sentiment (positive, negative, neutral) using NLP techniques.
+#### 🔹 **Sentiment Analysis on Tweets**
+Analyzing tweets to detect sentiment (positive, negative, neutral) using NLP techniques.
 - **Tech Stack:** Python, NLTK, TensorFlow
 - **Status:** In progress | Research phase
 - 🔗 [View the Repo](#)
 
-#### 🔹 **[Project Name: Object Detection with OpenCV]**
+#### 🔹 **Object Detection with OpenCV**
 A computer vision project using OpenCV to detect and classify objects in real-time video streams.
 - **Tech Stack:** Python, OpenCV, TensorFlow
 - **Status:** Completed | Research and application
@@ -57,17 +57,19 @@ A computer vision project using OpenCV to detect and classify objects in real-ti
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Languages Used
 
-![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajksharma7&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
-### 🖥️ Languages Used
-
-Here’s a graph showing the programming languages I've used in my repositories:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajksharma7&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
+    <h3>📈 GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=surajksharma7&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Suraj's GitHub Stats">
+  </div>
+  
+  <div style="flex: 1;">
+    <h3>🖥️ Languages Used</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajksharma7&layout=compact&theme=radical" alt="Top Languages">
+  </div>
+</div>
 
 ---
 
@@ -100,3 +102,4 @@ I’m always looking for new learning opportunities and collaborations. If you h
 ---
 
 ### 🔹 Thanks for visiting my GitHub!
+
