@@ -59,17 +59,17 @@ A computer vision project using OpenCV to detect and classify objects in real-ti
 
 ### 📈 GitHub Stats & Languages Used
 
-<!-- Using HTML for side-by-side layout -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; margin-right: 20px;">
-    <h3>📈 GitHub Stats</h3>
+<!-- HTML for side-by-side layout within the same container -->
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+  
+  <div style="flex: 1; max-width: 48%; display: flex; flex-direction: column; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=surajksharma7&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Suraj's GitHub Stats">
   </div>
   
-  <div style="flex: 1;">
-    <h3>🖥️ Languages Used</h3>
+  <div style="flex: 1; max-width: 48%; display: flex; flex-direction: column; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajksharma7&layout=compact&theme=radical" alt="Top Languages">
   </div>
+
 </div>
 
 ---
@@ -103,4 +103,3 @@ I’m always looking for new learning opportunities and collaborations. If you h
 ---
 
 ### 🔹 Thanks for visiting my GitHub!
-
