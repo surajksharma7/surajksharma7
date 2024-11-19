@@ -63,6 +63,14 @@ A computer vision project using OpenCV to detect and classify objects in real-ti
 
 ---
 
+### 🖥️ Languages Used
+
+Here’s a graph showing the programming languages I've used in my repositories:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajksharma7&layout=compact&theme=radical)
+
+---
+
 ### 📝 My Blog
 
 I love sharing what I learn along the way! Check out my blog for insights on AI, ML, and programming:
@@ -92,4 +100,3 @@ I’m always looking for new learning opportunities and collaborations. If you h
 ---
 
 ### 🔹 Thanks for visiting my GitHub!
-
