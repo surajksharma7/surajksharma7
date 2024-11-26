@@ -1,105 +1,50 @@
-# 👋 Hi, I’m **Suraj Sharma**!
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+</div>
 
-I’m an MCA student at **UPES** (University of Petroleum and Energy Studies) with a strong focus on **Artificial Intelligence** and **Machine Learning**. I'm passionate about creating intelligent systems, exploring data-driven solutions, and continuously learning new techniques in the AI/ML space. This GitHub profile is where I showcase my projects, contributions, and experiments.
+# 👋 Hi, I'm **SURAJ KUMAR**
 
----
-
-### 🎓 About Me
-
-I’m currently pursuing my **Master of Computer Applications (MCA)**, specializing in **Artificial Intelligence and Machine Learning**. I am fascinated by the power of data and algorithms to solve real-world problems. I’m constantly building my skills in data science, machine learning, and deep learning to make an impact in this rapidly evolving field.
-
-- **🔍 Focus Areas:**
-  - Machine Learning & Deep Learning
-  - Data Science & Analytics
-  - Natural Language Processing (NLP)
-  - Computer Vision
-  - Reinforcement Learning
-
-- **🔧 Technologies & Tools:**
-  - **Languages:** Python, C++, Java
-  - **Frameworks & Libraries:** TensorFlow, Keras, PyTorch, Scikit-Learn, OpenCV
-  - **Tools:** Jupyter Notebook, Git, Docker, VS Code
-  - **Databases:** MySQL, MongoDB
-  - **Cloud Platforms:** AWS, Google Cloud
+### 🚀 About Me  
+I’m an MCA student at UPES (University of Petroleum and Energy Studies) with a strong focus on Artificial Intelligence and Machine Learning. I'm passionate about creating intelligent systems, exploring data-driven solutions, and continuously learning new techniques in the AI/ML space. This GitHub profile is where I showcase my projects, contributions, and experiments.
 
 ---
 
-### 🌱 What I’m Learning Right Now
-
-- Advanced **Deep Learning** techniques like **Convolutional Neural Networks (CNNs)** and **Recurrent Neural Networks (RNNs)**
-- Exploring **Natural Language Processing (NLP)** for sentiment analysis and text classification
-- Building end-to-end **ML pipelines** and **model deployment** using tools like Flask and Docker
-- Working with **Reinforcement Learning** algorithms to create intelligent agents
-
----
-
-### 📚 Current Projects
-
-Here are some of the exciting AI/ML projects I'm working on or have completed:
-
-#### 🔹 **AI-based Movie Recommendation System**
-A machine learning model that recommends movies based on user preferences and historical data.
-- **Tech Stack:** Python, Pandas, Scikit-Learn, Flask
-- **Status:** Completed | Deployed
-- 🔗 [View the Repo](#)
-
-#### 🔹 **Sentiment Analysis on Tweets**
-Analyzing tweets to detect sentiment (positive, negative, neutral) using NLP techniques.
-- **Tech Stack:** Python, NLTK, TensorFlow
-- **Status:** In progress | Research phase
-- 🔗 [View the Repo](#)
-
-#### 🔹 **Object Detection with OpenCV**
-A computer vision project using OpenCV to detect and classify objects in real-time video streams.
-- **Tech Stack:** Python, OpenCV, TensorFlow
-- **Status:** Completed | Research and application
-- 🔗 [View the Repo](#)
+### 🛠️ Technologies & Tools  
+- **Programming Languages:** Python | Java | C  
+- **Data Science & ML:** Pandas | NumPy | Scikit-learn | TensorFlow  
+- **Web Development:** HTML | CSS | JavaScript  
+- **Tools & Platforms:** Git | Visual Studio Code | Jupyter Notebooks  
 
 ---
 
-### 📈 GitHub Stats & Languages Used
+### 🌟 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucky092003&show_icons=true&theme=radical&hide=prs,contribs" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky092003&theme=radical" alt="GitHub Streak" width="48%" />
+</div>
 
-<!-- HTML for side-by-side layout within the same container -->
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-  
-  <div style="flex: 1; max-width: 48%; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=surajksharma7&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Suraj's GitHub Stats">
-  </div>
-  
-  <div style="flex: 1; max-width: 48%; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajksharma7&layout=compact&theme=radical" alt="Top Languages">
-  </div>
 
+---
+
+### 📈 Top Languages  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky092003&layout=compact&theme=radical&langs_count=10&cache_seconds=86400" />
 </div>
 
 ---
 
-### 📝 My Blog
-
-I love sharing what I learn along the way! Check out my blog for insights on AI, ML, and programming:
-
-- [**Understanding Convolutional Neural Networks**](#)
-- [**Building a Machine Learning Model from Scratch**](#)
-- [**Exploring Reinforcement Learning**](#)
+- **Professional Summary**
+ Energetic Student with balanced background in sports and extra curricular activities. Diligent about preparing for
+ examinations competitions and assignments. Reliable and responsible with good communication and relationship-building
+ abilities.
 
 ---
 
-### 🚀 Let’s Connect!
-
-I’m always looking for new learning opportunities and collaborations. If you have an exciting project or want to discuss anything AI/ML, feel free to connect with me.
-
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [Suraj Sharma LinkedIn](#)
-- **Twitter:** [@yourtwitterhandle](#)
+### 🌍 Let's Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/luckypatel09/)  
+- 📧 [Email Me](mailto:luckypatel822@gmail.com)
+- 💻 [LeetCode](https://leetcode.com/u/luckypatel092003/)  
 
 ---
 
-### 🔹 Fun Facts
-
-- 🌍 I’m a huge fan of **[travelling/hiking/cycling]**, and I try to explore new places in my free time.
-- 🎮 I enjoy **gaming**—it's a great way to relax and unwind!
-- 📚 I'm always diving into new books and research papers, especially in **AI/ML**.
-
----
-
-### 🔹 Thanks for visiting my GitHub!
+- **Thanks for visiting my GitHub!**
