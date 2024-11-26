@@ -25,15 +25,15 @@ This GitHub profile is my space to showcase projects, contributions, and experim
 
 ### 🌟 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucky092003&show_icons=true&theme=radical&hide=prs,contribs" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky092003&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=surajksharma7&show_icons=true&theme=radical&hide=prs,contribs" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajksharma7&theme=radical" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
 
 ### 📈 Top Languages  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky092003&layout=compact&theme=radical&langs_count=10&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajksharma7&layout=compact&theme=radical&langs_count=10&cache_seconds=86400" />
 </div>
 
 ---
