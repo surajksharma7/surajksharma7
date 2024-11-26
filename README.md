@@ -39,9 +39,9 @@ This GitHub profile is my space to showcase projects, contributions, and experim
 ---
 
 ### 🌍 Let's Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/luckypatel09/)  
-- 📧 [Email Me](mailto:luckypatel822@gmail.com)  
-- 💻 [LeetCode](https://leetcode.com/u/luckypatel092003/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/surajksharma7/)  
+- 📧 [Email Me](mailto:surajksharma7@outlook.com)  
+- 💻 [LeetCode](https://leetcode.com/u/surajksharma7/)  
 
 ---
 
