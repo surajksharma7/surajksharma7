@@ -2,10 +2,16 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
 </div>
 
-# 👋 Hi, I'm **SURAJ KUMAR**
+# 👋 Hi, I'm **Suraj Kumar**
 
 ### 🚀 About Me  
-I’m an MCA student at UPES (University of Petroleum and Energy Studies) with a strong focus on Artificial Intelligence and Machine Learning. I'm passionate about creating intelligent systems, exploring data-driven solutions, and continuously learning new techniques in the AI/ML space. This GitHub profile is where I showcase my projects, contributions, and experiments.
+I’m an MCA student at **UPES (University of Petroleum and Energy Studies)** with a strong focus on **Artificial Intelligence** and **Machine Learning**.  
+I’m passionate about:  
+- Building intelligent systems.  
+- Exploring data-driven solutions.  
+- Continuously learning new techniques in the AI/ML domain.  
+
+This GitHub profile is my space to showcase projects, contributions, and experiments.  
 
 ---
 
@@ -23,7 +29,6 @@ I’m an MCA student at UPES (University of Petroleum and Energy Studies) with a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucky092003&theme=radical" alt="GitHub Streak" width="48%" />
 </div>
 
-
 ---
 
 ### 📈 Top Languages  
@@ -33,18 +38,18 @@ I’m an MCA student at UPES (University of Petroleum and Energy Studies) with a
 
 ---
 
-- **Professional Summary**
- Energetic Student with balanced background in sports and extra curricular activities. Diligent about preparing for
- examinations competitions and assignments. Reliable and responsible with good communication and relationship-building
- abilities.
-
----
-
 ### 🌍 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/luckypatel09/)  
-- 📧 [Email Me](mailto:luckypatel822@gmail.com)
+- 📧 [Email Me](mailto:luckypatel822@gmail.com)  
 - 💻 [LeetCode](https://leetcode.com/u/luckypatel092003/)  
 
 ---
 
-- **Thanks for visiting my GitHub!**
+### 📜 Professional Summary  
+Energetic student with a balanced background in sports and extracurricular activities.  
+Diligent in preparing for examinations, competitions, and assignments.  
+Reliable and responsible with strong communication and relationship-building abilities.  
+
+---
+
+### 💡 Thanks for visiting my GitHub! 😊
