@@ -2,54 +2,72 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
 </div>
 
-# 👋 Hi, I'm **Suraj Kumar**
+# 👋 Hey there, I'm **Suraj Kumar**  
 
-### 🚀 About Me  
-I’m an MCA student at **UPES (University of Petroleum and Energy Studies)** with a strong focus on **Artificial Intelligence** and **Machine Learning**.  
-I’m passionate about:  
-- Building intelligent systems.  
-- Exploring data-driven solutions.  
-- Continuously learning new techniques in the AI/ML domain.  
-
-This GitHub profile is my space to showcase projects, contributions, and experiments.  
+🎓 MCA Student @ **UPES (University of Petroleum and Energy Studies)**  
+🤖 Passionate about **Artificial Intelligence & Machine Learning**  
+✨ Curious mind, always exploring **data-driven solutions** & **intelligent systems**  
 
 ---
 
-### 🛠️ Technologies & Tools  
-- **Programming Languages:** Python | Java | C  
-- **Data Science & ML:** Pandas | NumPy | Scikit-learn | TensorFlow  
-- **Web Development:** HTML | CSS | JavaScript  
-- **Tools & Platforms:** Git | Visual Studio Code | Jupyter Notebooks  
+## 🚀 About Me  
+I love transforming ideas into **real-world AI/ML applications**.  
+My journey revolves around:  
+- 🧠 Building smart and scalable systems.  
+- 📊 Exploring patterns hidden in data.  
+- 📚 Lifelong learning and experimenting with new technologies.  
 
 ---
 
-### 🌟 GitHub Stats  
+## 🛠️ Tech Stack  
+
+**Languages**  
+`Python` | `Java` | `C`  
+
+**Data Science & ML**  
+`Pandas` | `NumPy` | `Scikit-learn` | `TensorFlow`  
+
+**Web Development**  
+`HTML` | `CSS` | `JavaScript`  
+
+**Tools & Platforms**  
+`Git` | `VS Code` | `Jupyter Notebook`  
+
+---
+
+## 🌟 GitHub Stats  
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=surajksharma7&show_icons=true&theme=radical&hide=prs,contribs" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajksharma7&theme=radical" alt="GitHub Streak" width="48%" />
-</div>
+</div>  
 
 ---
 
-### 📈 Top Languages  
+## 📈 Top Languages  
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajksharma7&layout=compact&theme=radical&langs_count=10&cache_seconds=86400" />
-</div>
+</div>  
 
 ---
 
-### 🌍 Let's Connect  
+## 🌍 Connect With Me  
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/surajksharma7/)  
 - 📧 [Email Me](mailto:surajksharma7@outlook.com)  
 - 💻 [LeetCode](https://leetcode.com/u/surajksharma7/)  
 
 ---
 
-### 📜 Professional Summary  
-Energetic student with a balanced background in sports and extracurricular activities.  
-Diligent in preparing for examinations, competitions, and assignments.  
-Reliable and responsible with strong communication and relationship-building abilities.  
+## 📜 Professional Summary  
+
+⚡ Energetic MCA student with a balanced background in academics, sports, and extracurriculars.  
+📘 Diligent in preparing for **exams, competitions, and projects**.  
+🤝 Reliable, responsible, and skilled in **communication & collaboration**.  
 
 ---
 
-### 💡 Thanks for visiting my GitHub! 😊
+<div align="center">
+  <b>💡 Thanks for stopping by! Keep learning & keep building 🚀</b>  
+</div>
